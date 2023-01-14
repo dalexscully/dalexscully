@@ -44,8 +44,11 @@ A Full Stack Software Develpor located in Queens, New York
 <hr>
 
 👀 I’m interested in programming and learning about HTML, CSS, and Javascript and Python!
+
 🌱 Heavily invested in NodeJS and React/Redux
+
 💞️ I’m looking to collaborate on projects and websites and beginner scripts!
+
 📫 How to reach me? @ [dalexscully@gmail.com](https://mail.google.com/mail/u/0/#inbox)
 
 
