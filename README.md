@@ -8,8 +8,8 @@
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=domaine.domaine)
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=domaine&count_private=true&show_icons=true&include_all_commits=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=domaine&hide=TeX&layout=compact)
+![Github Stats](https://github-readme-stats.vercel.app.PAT_1/api?username=domaine&count_private=true&show_icons=true&include_all_commits=true)
+![Top Langs](https://github-readme-stats.vercel.app.PAT_1/api/top-langs/?username=domaine&hide=TeX&layout=compact)
 
 
 ## ⚡ Technologies Languages & Tools
