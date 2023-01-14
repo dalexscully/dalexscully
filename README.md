@@ -45,7 +45,7 @@
 
 👀 I’m interested in programming and learning about HTML, CSS, and Javascript and Python!
 
-🌱 Heavily invested in NodeJS and React/Redux
+🌱 Heavily invested in Django, NodeJS and React/Redux
 
 💞️ I’m looking to collaborate on projects and websites and beginner scripts!
 
