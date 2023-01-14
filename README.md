@@ -6,10 +6,10 @@ A Full Stack Software Develpor located in Queens, New York
 
 <hr>
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=dalexscully.dalexscully)
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=domaine.domaine)
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=dalexscully&count_private=true&show_icons=true&include_all_commits=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dalexscully&hide=TeX&layout=compact)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=domaine&count_private=true&show_icons=true&include_all_commits=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=domaine&hide=TeX&layout=compact)
 
 
 ## ⚡ Technologies Languages & Tools
