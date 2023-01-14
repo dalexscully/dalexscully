@@ -2,7 +2,7 @@
 
 <hr>
 
-A Full Stack Software Develpor located in Queens, New York
+### A Full Stack Software Develpor located in Queens, New York
 
 <hr>
 
