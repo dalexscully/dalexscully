@@ -54,6 +54,5 @@
 
 ## Links and Networking!
 
-<hr>
 
 Linkedln: [https://www.linkedin.com/in/domaine-scully-737a952a/](https://www.linkedin.com/in/domaine-scully-737a952a/)
