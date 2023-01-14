@@ -41,5 +41,11 @@ A Full Stack Software Develpor located in Queens, New York
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
 
+<hr>
+
+👀 I’m interested in programming and learning about HTML, CSS, and Javascript and Python!
+🌱 Heavily invested in NodeJS and React/Redux
+💞️ I’m looking to collaborate on projects and websites and beginner scripts!
+📫 How to reach me? @ [dalexscully@gmail.com](https://mail.google.com/mail/u/0/#inbox)
 
 
