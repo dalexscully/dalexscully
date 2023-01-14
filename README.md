@@ -52,3 +52,8 @@ A Full Stack Software Develpor located in Queens, New York
 📫 How to reach me? @ [dalexscully@gmail.com](https://mail.google.com/mail/u/0/#inbox)
 
 
+## Links and Networking!
+
+<hr>
+
+Linkedln: [https://www.linkedin.com/in/domaine-scully-737a952a/](https://www.linkedin.com/in/domaine-scully-737a952a/)
