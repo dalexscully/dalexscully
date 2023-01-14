@@ -55,4 +55,4 @@
 ## Links and Networking!
 
 
-Linkedln: [https://www.linkedin.com/in/domaine-scully-737a952a/](https://www.linkedin.com/in/domaine-scully-737a952a/)
+Linkedln: [https://www.linkedin.com/in/domaine-scully](https://www.linkedin.com/in/domaine-scully-737a952a/)
