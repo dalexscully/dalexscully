@@ -56,4 +56,6 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-domaine-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/domaine-scully/)](https://www.linkedin.com/in/domaine-scully/)
 
+[![Gmail Badge](https://img.shields.io/badge/-dalexscullygmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dalexscully@gmail.com)](mailto:dalexscully@gmail.com)
+
 <!-- [![Linkedin Badge](https://img.shields.io/badge/-ludehsar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ludehsar/)](https://www.linkedin.com/in/ludehsar/) -->
