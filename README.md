@@ -48,7 +48,6 @@
 
 💞️ I’m looking to collaborate on projects and websites and beginner scripts!
 
-📫 How to reach me? @ [dalexscully@gmail.com](https://mail.google.com/mail/u/0/#inbox)
 
 
 ## Links and Networking!
