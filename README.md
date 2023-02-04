@@ -55,3 +55,4 @@
 
 
 Linkedln: [linkedin.com/in/domaine-scully](https://www.linkedin.com/in/domaine-scully-737a952a/)
+[![Linkedin Badge](https://img.shields.io/badge/-domaine-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/domaine/)](https://www.linkedin.com/in/domaine/)
