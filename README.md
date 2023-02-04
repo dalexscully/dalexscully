@@ -54,6 +54,6 @@
 ## Links and Networking!
 
 
-<!-- Linkedln: [linkedin.com/in/domaine-scully](https://www.linkedin.com/in/domaine-scully-737a952a/) -->
+<!-- [![Linkedin Badge](https://img.shields.io/badge/-domaine-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/domaine-scully/)](https://www.linkedin.com/in/domaine-scully/) -->
 
-[![Linkedin Badge](https://img.shields.io/badge/-domaine-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/domaine-scully/)](https://www.linkedin.com/in/domaine-scully/)
+[![Linkedin Badge](https://img.shields.io/badge/-ludehsar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ludehsar/)](https://www.linkedin.com/in/ludehsar/)
